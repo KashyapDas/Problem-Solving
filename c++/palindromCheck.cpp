@@ -5,7 +5,7 @@
 #include<cctype>
 using namespace std;
 
-int PlaindromeCheck(string arr)
+int PlaindromeCheck(string& arr)
 {
     int st = 0;
     int ed = arr.length()-1;
