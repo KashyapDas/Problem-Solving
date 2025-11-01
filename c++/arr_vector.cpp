@@ -1,21 +1,20 @@
 #include<iostream>
 #include<string>
 #include<vector>
-#include<string.h>
 
 using namespace std;
 
 int main()
 {
-    int int_arr[] = {0,1,2,3,4,5};
+    int arr[] = {0,1,2,3,4,5};
     // ivec has six elements; each is a copy of the corresponding element in int_arr
 
-    vector<int> ivec(begin(int_arr), end(int_arr));
-    
+    vector<int> copyVector(begin(arr), end(arr));
 
-    for(auto i = 0; i < ivec.size(); i++)
+ 
+    for(size_t i = 0; i<copyVector.size(); i++)
     {
-        cout << ivec[i] << " ";
+        cout << copyVector[i] << " ";
     }
 
     return 0;
