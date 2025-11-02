@@ -1,5 +1,6 @@
 // Implement selection Sort in java
 // Time complexity is => O(n^2)
+// It select the minimum element from the array an push it the ith index
 import java.util.Scanner;
 public class SelectionSort {
     public void selectionSorting(int arr[], int size)
