@@ -16,7 +16,5 @@ int main()
         st.pop();
     }
     cout<<endl;
-
-
     return 0;
 }
