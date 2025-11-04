@@ -1,23 +1,12 @@
 # 🧠 Problem Solving
 
-This repository is a collection of **problem-solving exercises**, **Python programs**, and **concept-based examples** aimed at improving coding logic, algorithmic thinking, and understanding of Python fundamentals.  
-It also includes hands-on examples covering **Object-Oriented Programming (OOPs)**, **Python Standard Library modules**, and **functional programming features** like **lambda functions**.
+This repository is a collection of **problem-solving exercises**, and **concept-based examples** aimed at improving coding logic, algorithmic thinking, and understanding of programming language fundamentals.  
+It also includes hands-on examples covering **Object-Oriented Programming (OOPs)**, **DSA**, **Interview Questions**.
 
 ---
 
-## 📁 Folder Structure
-
-### 🐍 `Python/`
-Contains Python programs that cover:
-- Basic syntax, loops, and conditionals  
-- Data structures: Lists, Tuples, Sets, Dictionaries  
-- Functions, Recursion, and Lambda expressions  
-- File handling and Exception handling  
-- Object-Oriented Programming (Classes, Inheritance, Polymorphism)  
-- Modules from Python Standard Library like `os`, `math`, `datetime`, etc.  
-
 ### 💡 `Problem-Solving/`
-Includes logic-based and algorithmic problems implemented in Python and other languages (if added later).  
+Includes logic-based and algorithmic problems implemented in Python, Java and C++.  
 These focus on improving problem-solving ability and computational thinking.
 
 ---
@@ -30,7 +19,7 @@ These focus on improving problem-solving ability and computational thinking.
 | **Intermediate** | Functions, Recursion, Modules, File I/O |
 | **Advanced** | OOPs (Encapsulation, Inheritance, Polymorphism) |
 | **Functional Programming** | Lambda, Map, Filter, Reduce |
-| **Standard Library** | `os`, `math`, `random`, `datetime`, and more |
+| **STL**, **Collection Framework** and **Core concept of Javacript**  | 
 
 ---
 
@@ -40,15 +29,10 @@ These focus on improving problem-solving ability and computational thinking.
    ```bash
    git clone https://github.com/KashyapDas/Problem-Solving.git
    ```
-2. Navigate into the Python folder  
-   ```bash
-   cd Problem-Solving/Python
+2. Run any script  
    ```
-3. Run any script  
-   ```bash
-   python filename.py
+      Run any file by using Code Runner extenstion present inside the extenstion folder in vs code
    ```
-
 ---
 
 ## 🤝 Contributing
@@ -63,9 +47,10 @@ If you’d like to contribute more problems or improve existing ones:
 
 ## 🧑‍💻 Author
 
-**Kashyap Jyoti Das**  
-Frontend Developer | Full Stack Learner | Open Source Contributor  
+**Kashyap Jyoti Das** & **Divyam Bajpai**  
+Frontend Engineer | Full Stack Learner | Open Source Contributor  
 🌐 [GitHub Profile](https://github.com/KashyapDas)
+🌐 [GitHub Profile](https://github.com/DBi06)
 
 ---
 
