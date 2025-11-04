@@ -18,8 +18,7 @@ These focus on improving problem-solving ability and computational thinking.
 | **Basics** | Variables, Data types, Loops, Conditionals |
 | **Intermediate** | Functions, Recursion, Modules, File I/O |
 | **Advanced** | OOPs (Encapsulation, Inheritance, Polymorphism) |
-| **Functional Programming** | Lambda, Map, Filter, Reduce |
-| **STL**, **Collection Framework** and **Core concept of Javacript**  | 
+| **STL**, **Collection Framework** and **Core concept of Javacript**  |  
 
 ---
 
